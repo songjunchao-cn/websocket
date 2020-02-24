@@ -17,5 +17,5 @@ function socketConnect(url) {
     }
     return ws; // 返回websocket对象
 }
-let wsValue = socketConnect('ws://121.40.165.18:8800')
+let wsValue = socketConnect('ws://121.40.165.18:8801')
 ```
